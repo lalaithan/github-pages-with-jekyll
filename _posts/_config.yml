@@ -1,0 +1,18 @@
+---
+title: "BLOGGY"
+date: 2018-07-26
+---
+
+title: My Jekyll Tutorial Page
+author: lalaithan
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is a page I created with a Jekyll tutorial.
+
+# social links
+twitter_username: penguinmlle
+github_username:  lalaithan
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
